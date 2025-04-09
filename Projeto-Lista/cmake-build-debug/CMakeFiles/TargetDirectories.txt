@@ -1,3 +1,0 @@
-C:/Users/aluno.servidorfatec/Documents/Lista_nava/cmake-build-debug/CMakeFiles/ArrayList.dir
-C:/Users/aluno.servidorfatec/Documents/Lista_nava/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/aluno.servidorfatec/Documents/Lista_nava/cmake-build-debug/CMakeFiles/rebuild_cache.dir
